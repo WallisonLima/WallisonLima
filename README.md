@@ -14,10 +14,10 @@
 
 
 <div> 
-  <a href="https://instagram.com/Jvmendes_1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joao.vitor13mendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joão-vitor-mendes-3057801aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <a href = "mailto:wallisonlimaoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wallison-lima-041908197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/WallisonLima/WallisonLima/blob/output/github-contribution-grid-snake.svg)
+  /*(url)![Snake animation](https://github.com/WallisonLima/WallisonLima/blob/output/github-contribution-grid-snake.svg)*/
  
 </div>
