@@ -10,9 +10,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WallisonLima&count_private=true&show_icons=true&theme=tokyonight)
 
-[![BilbinhaHigh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WallisonLima&theme=tokyonight)](https://wakatime.com/@WallisonLima)
-
-
 <div> 
   
   <a href = "mailto:wallisonlimaoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
